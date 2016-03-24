@@ -1,0 +1,145 @@
+Running: /home/ajpc/Documents/pythonrestart/TSP_aed/GA.py (Wed Mar 23 17:43:21 2016)
+
+progress:0.01, best tour length 17099.0171537
+progress:0.02, best tour length 17099.0171537
+progress:0.03, best tour length 17099.0171537
+progress:0.04, best tour length 17099.0171537
+progress:0.05, best tour length 17099.0171537
+progress:0.06, best tour length 17046.832794
+progress:0.07, best tour length 16364.4381545
+progress:0.08, best tour length 15857.7320052
+progress:0.09, best tour length 15270.5808899
+progress:0.1, best tour length 15270.5808899
+progress:0.11, best tour length 14838.3251664
+progress:0.12, best tour length 13546.4887367
+progress:0.13, best tour length 13546.4887367
+progress:0.14, best tour length 13106.5253365
+progress:0.15, best tour length 13106.5253365
+progress:0.16, best tour length 12904.3410276
+progress:0.17, best tour length 12327.1849534
+progress:0.18, best tour length 11290.9753769
+progress:0.19, best tour length 11290.9753769
+progress:0.2, best tour length 11290.9753769
+progress:0.21, best tour length 11205.4535267
+progress:0.22, best tour length 11205.4535267
+progress:0.23, best tour length 10688.7582386
+progress:0.24, best tour length 10422.5972869
+progress:0.25, best tour length 10202.40262
+progress:0.26, best tour length 10202.40262
+progress:0.27, best tour length 9915.74726975
+progress:0.28, best tour length 9179.41312841
+progress:0.29, best tour length 9179.41312841
+progress:0.3, best tour length 8902.37525428
+progress:0.31, best tour length 8902.37525428
+progress:0.32, best tour length 8902.37525428
+progress:0.33, best tour length 8595.84441002
+progress:0.34, best tour length 8405.85631909
+progress:0.35, best tour length 8405.85631909
+progress:0.36, best tour length 8126.41106681
+progress:0.37, best tour length 7952.61250772
+progress:0.38, best tour length 7952.61250772
+progress:0.39, best tour length 7893.31838989
+progress:0.4, best tour length 7626.8803567
+progress:0.41, best tour length 7483.87274594
+progress:0.42, best tour length 7457.97109456
+progress:0.43, best tour length 7169.08229622
+progress:0.44, best tour length 7090.38414622
+progress:0.45, best tour length 7090.38414622
+progress:0.46, best tour length 6939.14671207
+progress:0.47, best tour length 6915.8122391
+progress:0.48, best tour length 6866.79059558
+progress:0.49, best tour length 6771.35433277
+progress:0.5, best tour length 6771.35433277
+progress:0.51, best tour length 6748.00487719
+progress:0.52, best tour length 6737.71412199
+progress:0.53, best tour length 6737.71412199
+progress:0.54, best tour length 6707.54491401
+progress:0.55, best tour length 6701.53898209
+progress:0.56, best tour length 6701.53898209
+progress:0.57, best tour length 6701.53898209
+progress:0.58, best tour length 6699.40454111
+progress:0.59, best tour length 6699.40454111
+progress:0.6, best tour length 6678.79820396
+progress:0.61, best tour length 6675.79727888
+progress:0.62, best tour length 6664.3849202
+progress:0.63, best tour length 6659.90674039
+progress:0.64, best tour length 6659.90674039
+progress:0.65, best tour length 6659.90674039
+progress:0.66, best tour length 6659.43153293
+progress:0.67, best tour length 6659.43153293
+progress:0.68, best tour length 6659.43153293
+progress:0.69, best tour length 6659.43153293
+progress:0.7, best tour length 6659.43153293
+progress:0.71, best tour length 6659.43153293
+progress:0.72, best tour length 6659.43153293
+progress:0.73, best tour length 6659.43153293
+progress:0.74, best tour length 6659.43153293
+progress:0.75, best tour length 6659.43153293
+progress:0.76, best tour length 6659.43153293
+progress:0.77, best tour length 6659.43153293
+progress:0.78, best tour length 6659.43153293
+progress:0.79, best tour length 6659.43153293
+progress:0.8, best tour length 6659.43153293
+progress:0.81, best tour length 6659.43153293
+progress:0.82, best tour length 6659.43153293
+progress:0.83, best tour length 6659.43153293
+progress:0.84, best tour length 6659.43153293
+progress:0.85, best tour length 6659.43153293
+progress:0.86, best tour length 6659.43153293
+progress:0.87, best tour length 6659.43153293
+progress:0.88, best tour length 6659.43153293
+progress:0.89, best tour length 6659.43153293
+progress:0.9, best tour length 6659.43153293
+progress:0.91, best tour length 6659.43153293
+progress:0.92, best tour length 6659.43153293
+progress:0.93, best tour length 6659.43153293
+progress:0.94, best tour length 6659.43153293
+progress:0.95, best tour length 6659.43153293
+progress:0.96, best tour length 6659.43153293
+progress:0.97, best tour length 6659.43153293
+progress:0.98, best tour length 6659.43153293
+progress:0.99, best tour length 6659.43153293
+progress:1.0, best tour length 6659.43153293
+
+
+best solution
+name:27 x:11963.0556 y:43290.5556
+name:31 x:12286.9444 y:43355.5556
+name:36 x:12386.6667 y:43334.7222
+name:34 x:12363.3333 y:43189.1667
+name:33 x:12355.8333 y:43156.3889
+name:38 x:12645.0 y:42973.3333
+name:37 x:12421.6667 y:42895.5556
+name:35 x:12372.7778 y:42711.3889
+name:32 x:12300.0 y:42433.3333
+name:30 x:12149.4444 y:42477.5
+name:29 x:12058.3333 y:42195.5556
+name:21 x:11715.8333 y:41836.1111
+name:14 x:11511.3889 y:42106.3889
+name:10 x:11438.3333 y:42057.2222
+name:1 x:11003.6111 y:42102.5
+name:2 x:11108.6111 y:42373.8889
+name:4 x:11155.8333 y:42712.5
+name:3 x:11133.3333 y:42885.8333
+name:5 x:11183.3333 y:42933.3333
+name:6 x:11297.5 y:42853.3333
+name:7 x:11310.2778 y:42929.4444
+name:8 x:11416.6667 y:42983.3333
+name:9 x:11423.8889 y:43000.2778
+name:12 x:11485.5556 y:43187.2222
+name:11 x:11461.1111 y:43252.7778
+name:19 x:11600.0 y:43150.0
+name:18 x:11595.0 y:43148.0556
+name:17 x:11583.3333 y:43150.0
+name:16 x:11569.4444 y:43136.6667
+name:13 x:11503.0556 y:42855.2778
+name:15 x:11522.2222 y:42841.9444
+name:20 x:11690.5556 y:42686.6667
+name:23 x:11770.2778 y:42651.9444
+name:26 x:11846.9444 y:42660.5556
+name:25 x:11822.7778 y:42673.6111
+name:22 x:11751.1111 y:42814.4444
+name:24 x:11785.2778 y:42884.4444
+name:28 x:11973.0556 y:43026.1111
+fitness 6659.43153293
+
