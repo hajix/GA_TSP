@@ -32,18 +32,6 @@ class GA(threading.Thread):
         # how many generations?
         self.generations = generations
 
-        # test methodes
-        #print('test methods')
-        #print('------------------')
-        #print('selection')
-        #self.tournament_selection()
-        #print('------------------')
-        #print('xover test')
-        #self.crossover()
-        #print('------------------')
-        #print('ox test')
-        #print(self.OX([8, 4, 7, 3, 6, 2, 5, 1], list(range(1, 9))))
-
     def generate_city_permutation(self, city_list):
         tmp = deepcopy(city_list)
         random.shuffle(tmp)
